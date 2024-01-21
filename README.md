@@ -13,8 +13,12 @@ bun dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-The tech stack used for the development of this application is: 
-Next.js
-Tailwindcss
-Prisma
-Clerk.js
+The tech stack used for the development of this application is:
+
+**Next.js**
+
+**Tailwindcss**
+
+**Prisma**
+
+**Clerk.js**
